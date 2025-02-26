@@ -7,7 +7,8 @@
     "akhir_ngaji": "11:00",
     "mulai_deres": "20:00",
     "akhir_deres": "22:00",
-    "stream": "https://ppwb.kita-kita.online/stream/video-bacaan/bacaan.m3u8"
+    "video_stream": "https://ppwb.kita-kita.online/stream/video-bacaan/bacaan.m3u8",
+    "audio_stream": "https://ppwb.kita-kita.online/stream/audio-bacaan/001.m3u8"
   }
   
 
